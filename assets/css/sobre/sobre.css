@@ -1,0 +1,33 @@
+.sobre{
+    padding-top: 2.75em;
+}
+
+.sobre__titulo{
+    text-align: center;
+
+    font-weight: 600;
+    font-size: 28px;
+}
+
+.sobre__p{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 2rem;
+}
+
+.sobre__div{
+    margin-top: 1.2rem;
+    display: flex;
+    justify-content: center;
+   /*  flex-direction: column; */
+}
+
+.sobre__link{
+    font-weight: bold;
+    font-size: 18px;
+    color: var(--preto);
+}
+
+.instagram__logo{
+    color: var(--rosa);
+}

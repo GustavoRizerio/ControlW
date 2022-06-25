@@ -1,0 +1,25 @@
+.quem{
+    display: block;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    text-align: center;
+}
+
+.quem__img{
+    width: 300px;
+    height: auto;
+
+    margin-top: 2rem;
+
+    border: 2px outset var(--preto);
+}
+
+.quem_figcaption{
+    font-weight: bold;
+    font-size: 20px;
+
+    padding-top: 0.3rem;
+}

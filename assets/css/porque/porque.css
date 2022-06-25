@@ -1,0 +1,8 @@
+.porque__titulo{
+    padding-top: 1.25rem;
+    margin-top: 2rem;
+
+    font-size: 25px;
+
+    border-top: 1px solid var(--preto) ;
+}
